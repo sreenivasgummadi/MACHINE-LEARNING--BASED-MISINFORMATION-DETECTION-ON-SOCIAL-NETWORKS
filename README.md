@@ -1,7 +1,5 @@
 # MACHINE-LEARNING--BASED-MISINFORMATION-DETECTION-ON-SOCIAL-NETWORKS
 
-# MACHINE-LEARNING--BASED-MISINFORMATION-DETECTION-ON-SOCIAL-NETWORKS
-
 In today’s digital era, social media platforms have become major sources of information sharing. However, the rapid spread of fake news and misinformation has become a serious global issue. This project aims to build an AI-driven system that automatically detects and classifies misinformation using Machine Learning (ML) and Natural Language Processing (NLP) techniques.
 
 The system analyzes text-based data from social media or news headlines, learns linguistic patterns, and predicts whether the content is Real or Fake. It also includes an interactive Streamlit web application for real-time user interaction and visualization of model performance.
