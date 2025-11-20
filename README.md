@@ -46,7 +46,7 @@ Visualization: Shows accuracy metrics and dataset distribution on the web dashbo
 
 👩‍💻 Author
 
-Boligala Jahnavi  -->  
+Gummadi sreennivas  -->  
 Final Year Project | Machine Learning & AI Integration
 
 
